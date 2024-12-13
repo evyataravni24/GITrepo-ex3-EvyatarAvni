@@ -4,7 +4,7 @@ public class EvyatarAvni
     {
         for(int i = 1 ; i <= 10 ; i++)
         {
-            System.out.println("EvyatarAvni..." + i);
+            System.out.println("EvyatarAvni - Changed" + i);
         }
     }
 }
